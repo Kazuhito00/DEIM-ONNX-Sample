@@ -1,4 +1,3 @@
-# DEIM-ONNX-Sample
 # D-FINE-ONNX-Sample
 [ShihuaHuang95/DEIM](https://github.com/ShihuaHuang95/DEIM)のPythonでのONNX推論サンプルです。<br>
 変換自体を試したい方は、Google Colaboratory上で[Convert2ONNX.ipynb](Convert2ONNX.ipynb)を使用ください。<br><br>
